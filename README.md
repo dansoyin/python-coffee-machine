@@ -1,2 +1,15 @@
-# python-coffee-machine
-A simple coffee machine simulator built with Python.
+# Python Coffee Machine ☕
+
+Simple coffee machine simulator built with Python.
+
+## Features
+- Coffee selection
+- Coin system
+- Resource management
+- Change calculation
+
+## Run
+
+```bash
+python main.py
+```
